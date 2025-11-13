@@ -38,7 +38,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Pantry Tracker')),
+      appBar: AppBar(title: Text('PantryMate')),
       body: Column(
         children: [
           Padding(
